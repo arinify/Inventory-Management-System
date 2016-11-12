@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("localhost","thehedaj_arpan","1qaz2wsx!QAZ@WSX","thehedaj_arpanstore");
+$con = mysqli_connect("localhost","<username>","<password>","<database_name>");
 
 // Check connection
 if (mysqli_connect_errno())
